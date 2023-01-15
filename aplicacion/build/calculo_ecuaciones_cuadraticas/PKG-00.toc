@@ -1,0 +1,60 @@
+('C:\\Users\\Joel Miguel Serrudo\\Documents\\Ucasal\\1 er ano\\Segundo '
+ 'Semestre\\Introduccion a la Informatica\\Proyecto '
+ 'final\\aplicacion\\build\\calculo_ecuaciones_cuadraticas\\calculo_ecuaciones_cuadraticas.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Joel Miguel Serrudo\\Documents\\Ucasal\\1 er ano\\Segundo '
+   'Semestre\\Introduccion a la Informatica\\Proyecto '
+   'final\\aplicacion\\build\\calculo_ecuaciones_cuadraticas\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Joel Miguel Serrudo\\Documents\\Ucasal\\1 er ano\\Segundo '
+   'Semestre\\Introduccion a la Informatica\\Proyecto '
+   'final\\aplicacion\\build\\calculo_ecuaciones_cuadraticas\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Joel Miguel Serrudo\\Documents\\Ucasal\\1 er ano\\Segundo '
+   'Semestre\\Introduccion a la Informatica\\Proyecto '
+   'final\\aplicacion\\build\\calculo_ecuaciones_cuadraticas\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Joel Miguel Serrudo\\Documents\\Ucasal\\1 er ano\\Segundo '
+   'Semestre\\Introduccion a la Informatica\\Proyecto '
+   'final\\aplicacion\\build\\calculo_ecuaciones_cuadraticas\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Joel Miguel Serrudo\\Documents\\Ucasal\\1 er ano\\Segundo '
+   'Semestre\\Introduccion a la Informatica\\Proyecto '
+   'final\\aplicacion\\build\\calculo_ecuaciones_cuadraticas\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Joel Miguel '
+   'Serrudo\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Joel Miguel '
+   'Serrudo\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\Joel Miguel '
+   'Serrudo\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('calculo_ecuaciones_cuadraticas',
+   'C:\\Users\\Joel Miguel Serrudo\\Documents\\Ucasal\\1 er ano\\Segundo '
+   'Semestre\\Introduccion a la Informatica\\Proyecto '
+   'final\\aplicacion\\calculo_ecuaciones_cuadraticas.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
